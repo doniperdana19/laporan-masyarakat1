@@ -1,7 +1,9 @@
 LAPORAN MASYARAKAT
+
 Aplikasi Laporan Masyarakat adalah platform digital yang dirancang untuk memungkinkan warga melaporkan berbagai kejadian darurat secara langsung kepada pihak berwenang. Fokus utama aplikasi ini adalah menyediakan saluran cepat, mudah, dan terorganisir bagi masyarakat untuk melaporkan insiden terkait bencana alam, kebakaran, dan situasi medis. Aplikasi ini berperan sebagai penghubung antara warga dan instansi terkait, seperti Badan Penanggulangan Bencana, Pemadam Kebakaran, serta Layanan Kesehatan Darurat.
 
 Fitur Utama Aplikasi
+
 1.Pelaporan Bencana Alam:
 
 A.Pengguna dapat melaporkan kejadian bencana alam seperti gempa bumi, banjir, tanah longsor, angin puting beliung, dan lainnya.
